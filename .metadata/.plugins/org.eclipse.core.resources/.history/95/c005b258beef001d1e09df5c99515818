@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h2>학원이란 감옥에 갇혀...</h2>
+	<p>
+		집이 가고싶다..
+	</p>
+
+</body>
+</html>
+
+
+
+
